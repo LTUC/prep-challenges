@@ -16,4 +16,4 @@
 
   - to run all tests:`npm test`
   - to run specific tests: `npm test <test-number>`
-    - Fore example: `npm test 06`
+    - For example: `npm test 06`
