@@ -2,9 +2,8 @@
 
 ## Language: `JavaScript`
 
-## How to Install and Run the Project
+## User's guide
 
-- Enter this command `npm install` ,to install some libraries that we'll use to help you test out your code.
 - To retrieve the code challenge from problems space enter `npm run pull-challenge <challenge-number>`
 
   - For example:
